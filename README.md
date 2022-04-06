@@ -1,12 +1,12 @@
 > Link to tutorial on gamedev-resources.com
-> 
+
 # Tutorial Name
 {Description}
 
-#Learning Outcomes
+# Learning Outcomes
 * List
 * List
 
-#Prerequisites
+# Prerequisites
 * List
 * List
