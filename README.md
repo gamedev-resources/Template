@@ -1,4 +1,4 @@
-> Link to tutorial on gamedev-resources.com
+> View the entire tutorial on [GameDev Resources](https://www.gamedev-resources.com).
 
 # Tutorial Name
 {Description}
